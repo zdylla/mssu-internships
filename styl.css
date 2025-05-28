@@ -37,3 +37,9 @@ footer {
   padding: 1rem;
   background: #ccc;
 }
+.hero {
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
